@@ -1,8 +1,8 @@
 # THE WORLD IN ONE DAY — news-image-20261117
 
 [![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117)
-[![rank](https://make.fun/badge/rank/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117)
-[![reward](https://make.fun/badge/reward/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/stia-mora/news-image-keen-otter/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/stia-mora/news-image-keen-otter/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 
 A one-page newspaper front page summarising the world news of
 **Tuesday, 17 November 2026** in a single image: six stories, six regions,
